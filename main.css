@@ -7,7 +7,26 @@ background: url(https://images.wallpaperscraft.ru/image/zvezdnoe_nebo_galaktika_
 
 }
 .zagolovok {
-padding: 50px 30px 15px 120px;
+padding: 50px 30px 15px 330px;
+line-height: 1.8;
+font-family: Helvetica;
+font-weight: 560;
 
+}
+
+.text1{
+padding: 0px 30px 15px 330px;
+font-size:19pt;	
+line-height: 0.25;
+color:#808080;
+font-family: Helvetica;
+font-weight: 525;
+
+
+}
+.meteorBIG{
+padding-left: 1100px;
+position:relative;
+top:-200px;
 
 }
