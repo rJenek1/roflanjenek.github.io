@@ -75,12 +75,17 @@ background: #808080;
 filter: alpha(opacity=60);
 opacity: 0.15;
 position: absolute;
-padding-right: 50px;
-height: 100%;
-width: 100%;
+height: 35%;
+width: 60%;
+margin-top: -140px;
+margin-left: 240px;
 }
 .fontext{
 position: absolute;
-top: 0;
-left: 100;
+font-size: 19px;
+font-family: Helvetica;
+font-weight: 400px;
+margin-left: 260px;
+margin-top:-115px;
+
 }
