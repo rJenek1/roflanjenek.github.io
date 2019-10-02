@@ -76,16 +76,24 @@ filter: alpha(opacity=60);
 opacity: 0.15;
 position: absolute;
 height: 35%;
-width: 60%;
+width: 65%;
 margin-top: -140px;
 margin-left: 240px;
 }
 .fontext{
 position: absolute;
-font-size: 19px;
+font-size: 18px;
 font-family: Helvetica;
 font-weight: 400px;
-margin-left: 260px;
-margin-top:-114px;
+margin-left: 280px;
+margin-top:-115px;
 
+}
+.fontext2{
+position: absolute;
+font-size: 18px;
+font-family: Helvetica;
+font-weight: 400px;
+margin-left: 343px;
+margin-top:-115px;	
 }
