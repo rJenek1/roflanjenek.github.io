@@ -1,5 +1,5 @@
 body {
-background-image: url(http://www.astrokit.org/static/imageflow/build/css/images/temp/intro-bg.png);
+background-image:url(http://www.astrokit.org/static/imageflow/build/css/images/temp/intro-bg.png);
 background-repeat:no-repeat; 
 background-size: cover;
 }
@@ -41,7 +41,7 @@ color:#696969;
 font-size: 14pt;
 }
 .meteorSMALL{
-padding-left: 1425px;
+padding-left: 1410px;
 position:relative;
 top:-200px;
 }
@@ -96,4 +96,16 @@ font-family: Helvetica;
 font-weight: 400px;
 margin-left: 343px;
 margin-top:-115px;	
+}
+.fontext3{
+position: absolute;
+font-size: 18px;
+font-family: Helvetica;
+font-weight: 400px;
+margin-left: 480px;
+margin-top:-315px;
+}
+.nasa{
+margin-left: 240px;
+margin-top: -150px;
 }
