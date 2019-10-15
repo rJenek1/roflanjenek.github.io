@@ -15,7 +15,8 @@ padding: 50px 30px 15px 240px;
 line-height: 1.8;
 font-family: Helvetica;
 font-weight: 560;
-width: 600px;
+width: 30%;
+
 }
 
 .text1{
@@ -29,13 +30,13 @@ font-weight: 500;
 
 
 }
-.meteorBIG{
+.meteorBIG{ 
 position: absolute;
 padding-left: 1000px;
 display:table-cell;
-height: 100px;
+height: 1px;
 top:210px;
-width: 0%;
+width: 0px;
 }
 .text2{
 padding-left:240px;
@@ -45,36 +46,64 @@ bottom:520px;
 font-weight: 500;
 color:#696969;
 font-size: 14pt;
+opacity: 0.70;
 }
 .meteorSMALL{
 height: 0px;
 position: absolute;
-padding-left: 1410px;
+margin-left: 1410px;
 margin-top:-90px;
 }
 .vkladka1{
 position: absolute;
-padding-left: 1200px;
+margin-left: 1200px;
 top:33px;
 font-size: 15px;
 }
-
-.vkladka2{
+.vkladka1:hover{
 position: absolute;
-padding-left: 1400px;
+margin-left: 1200px;
+top:33px;
+font-size: 15px;
+color:#CD853F;
+transition: 0.3s;
+opacity: 0.5;
+}
+
+.vkladka2{ 
+position: absolute;
+margin-left: 1400px;
 top:33px;
 font-size: 15px;
 color:#696969;	
-height: 1px;
+	
+}
+.vkladka2:hover{ 
+position: absolute;
+margin-left: 1400px;
+top:33px;
+font-size: 15px;
+color:#CD853F;
+transition: 0.3s;
+opacity: 0.5;
+	
 }
 .vkladka3{
 position: absolute;
-padding-left: 1560px;
+margin-left: 1560px;
 top:33px;
-height: 1px;
-
 font-size: 15px;
 color:#696969;		
+}
+.vkladka3:hover{
+position: absolute;
+margin-left: 1560px;
+top:33px;
+font-size: 15px;
+color:#CD853F;
+
+transition: 0.3s;
+opacity: 0.5;		
 }
 .startnow{
 position: absolute;
@@ -98,17 +127,21 @@ font-family: Helvetica;
 font-weight: 400px;
 margin-left: 280px;
 margin-top:105px;
-
+width: 110px;
 }
-.fontext2{
+.fontext:hover{
 position: absolute;
 font-size: 18px;
 font-family: Helvetica;
 font-weight: 400px;
-margin-left: 343px;
-margin-top:105px;	
-}
-.fontext3{
+margin-left: 280px;
+margin-top:105px;
+width: 110px;
+color:#CD853F;
+transition: 0.3s;
+opacity: 0.5;
+}	
+.fontext3{ 
 position: absolute;
 font-size: 18px;
 font-family: Helvetica;
@@ -116,16 +149,100 @@ font-weight: 400px;
 margin-left: 480px;
 margin-top:105px;
 }
+.fontext3:hover{ 
+position: absolute;
+font-size: 18px;
+font-family: Helvetica;
+font-weight: 400px;
+margin-left: 480px;
+margin-top:105px;
+color:#CD853F;
+transition: 0.3s;
+opacity: 0.5;
+}
 .nasa{
 position: absolute;
 margin-left: 240px;
 margin-top: 350px;
 }
 .almaz{
+position: absolute;
 margin-top:680px;
-margin-left: 110px;
+margin-left: 150px;
+width: 60px;
 
-width: 100%;
-height: 1000px;
+}
+.wia{
+position: absolute;
+font-family: Helvetica;
+font-weight: 560;
+width: 30%;
+margin-left: 240px;
+margin-top: 680px;
 
+}
+.wia1{
+font-size:19pt;	
+font-family: Helvetica;
+font-weight: 500;
+width: 450px;
+margin-left: 240px;
+margin-top: 740px;
+position: absolute;
+opacity: 0.30;
+}
+.wia2{
+position: absolute;
+margin-left:240px;
+font-family: Helvetica;	
+font-weight: 500;
+color:#696969;
+font-size: 14pt;
+width: 400px;
+margin-top:880px;
+opacity: 0.50;
+}
+.linia{
+border:1px double white;
+position: absolute;
+margin-top:500px;
+width: 1365px;
+margin-left:300px;
+opacity: 0.15;
+}
+.wia3{
+position: absolute;
+font-size: 18px;
+font-family: Helvetica;
+font-weight: 400px;
+width: 200px;
+margin-top:1020px;
+margin-left: 240px;
+}
+.wia3:hover{
+position: absolute;
+font-size: 18px;
+font-family: Helvetica;
+font-weight: 400px;
+width: 200px;
+margin-top:1020px;
+margin-left: 240px;
+color:#CD853F;
+transition: 0.3s;
+opacity: 0.5;
+}
+.tuman{
+position: absolute;
+margin-left: 850px;
+margin-top:550px;
+}
+.tuman1{
+position: absolute;
+margin-left: 800px;
+margin-top:580px;
+}
+.rasvet{
+position: absolute;
+margin-left: 1150px;
+margin-top:1100px;
 }
