@@ -1,5 +1,5 @@
 body {
-background-image:url(Kartinki/FON1.jpeg);
+background-image:url(Kartinki/FON11.jpg);
  
 background-size: 100%;
 
@@ -245,4 +245,64 @@ margin-top:580px;
 position: absolute;
 margin-left: 1150px;
 margin-top:1100px;
+}
+.boruto{
+position: absolute;
+font-family: Helvetica;
+font-weight: 560;
+width: 30%;
+margin-left: 300px;
+margin-top: 1700px;
+}
+.boruto11{
+font-size:19pt;	
+font-family: Helvetica;
+font-weight: 500;
+width: 450px;
+margin-left: 300px;
+margin-top: 1810px;
+position: absolute;
+opacity: 0.70;
+}
+.boruto3{
+position: absolute;
+margin-left:300px;
+font-family: Helvetica;	
+font-weight: 500;
+opacity:0.5;
+font-size: 14pt;
+width: 400px;
+margin-top:1920px;
+
+}
+.startApolo{
+position: absolute;
+font-size: 18px;
+font-family: Helvetica;
+font-weight: 400px;
+margin-left: 1000px;
+margin-top:2290px;
+width: 160px;
+height:70px;
+text-align: center;
+vertical-align: middle;
+line-height: 70px; 
+background-color:#DEB887;  
+}
+.temno{
+position: absolute;
+margin-left: 1000px;
+margin-top:2290px;
+width: 160px;
+height:70px;
+background-color:black;
+opacity: 0.3;  
+}
+.linia2{
+border:1px double white;
+position: absolute;
+margin-top:2325px;
+width: 655px;
+margin-left:340px;
+opacity: 0.15;
 }
