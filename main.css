@@ -22,7 +22,7 @@ width: 30%;
 .text1{
 width: 500px;
 padding: 0px 30px 15px 240px;
-font-size:19pt;	
+font-size:21pt;	
 line-height: 0.25;
 color:#808080;
 font-family: Helvetica;
@@ -45,7 +45,7 @@ line-height: 0.25;
 bottom:520px;	
 font-weight: 500;
 color:#696969;
-font-size: 14pt;
+font-size: 18pt;
 opacity: 0.70;
 }
 .meteorSMALL{
@@ -120,13 +120,24 @@ width: 65%;
 margin-top: 80px;
 margin-left: 240px;
 }
+.fon:hover{
+position: absolute;
+background:#A0522D;
+filter: alpha(opacity=60);
+opacity: 0.3;
+height: 35%;
+width: 65%;
+margin-top: 80px;
+margin-left: 240px;
+transition: 0.4s;
+}
 .fontext{
 position: absolute;
 font-size: 18px;
 font-family: Helvetica;
 font-weight: 400px;
-margin-left: 280px;
-margin-top:105px;
+margin-left: 290px;
+margin-top:108px;
 width: 110px;
 }
 .fontext:hover{
@@ -134,8 +145,8 @@ position: absolute;
 font-size: 18px;
 font-family: Helvetica;
 font-weight: 400px;
-margin-left: 280px;
-margin-top:105px;
+margin-left: 290px;
+margin-top:108px;
 width: 110px;
 color:#CD853F;
 transition: 0.3s;
@@ -167,7 +178,7 @@ margin-top: 350px;
 }
 .almaz{
 position: absolute;
-margin-top:680px;
+margin-top:830px;
 margin-left: 150px;
 width: 60px;
 
@@ -178,18 +189,18 @@ font-family: Helvetica;
 font-weight: 560;
 width: 30%;
 margin-left: 240px;
-margin-top: 680px;
+margin-top: 830px;
 
 }
 .wia1{
-font-size:19pt;	
+font-size:21pt;	
 font-family: Helvetica;
 font-weight: 500;
-width: 450px;
+width: 400px;
 margin-left: 240px;
-margin-top: 740px;
+margin-top: 890px;
 position: absolute;
-opacity: 0.30;
+opacity: 0.40;
 }
 .wia2{
 position: absolute;
@@ -197,15 +208,15 @@ margin-left:240px;
 font-family: Helvetica;	
 font-weight: 500;
 color:#696969;
-font-size: 14pt;
+font-size: 16pt;
 width: 400px;
-margin-top:880px;
+margin-top:1010px;
 opacity: 0.50;
 }
 .linia{
 border:1px double white;
 position: absolute;
-margin-top:500px;
+margin-top:550px;
 width: 1365px;
 margin-left:300px;
 opacity: 0.15;
@@ -216,7 +227,7 @@ font-size: 18px;
 font-family: Helvetica;
 font-weight: 400px;
 width: 200px;
-margin-top:1020px;
+margin-top:1170px;
 margin-left: 240px;
 }
 .wia3:hover{
@@ -225,7 +236,7 @@ font-size: 18px;
 font-family: Helvetica;
 font-weight: 400px;
 width: 200px;
-margin-top:1020px;
+margin-top:1170px;
 margin-left: 240px;
 color:#CD853F;
 transition: 0.3s;
@@ -234,17 +245,17 @@ opacity: 0.5;
 .tuman{
 position: absolute;
 margin-left: 850px;
-margin-top:550px;
+margin-top:700px;
 }
 .tuman1{
 position: absolute;
 margin-left: 800px;
-margin-top:580px;
+margin-top:730px;
 }
 .rasvet{
 position: absolute;
-margin-left: 1150px;
-margin-top:1100px;
+margin-left: 1200px;
+margin-top:1300px;
 }
 .boruto{
 position: absolute;
@@ -255,12 +266,12 @@ margin-left: 300px;
 margin-top: 1700px;
 }
 .boruto11{
-font-size:19pt;	
+font-size:21pt;	
 font-family: Helvetica;
 font-weight: 500;
 width: 450px;
 margin-left: 300px;
-margin-top: 1810px;
+margin-top: 1820px;
 position: absolute;
 opacity: 0.70;
 }
@@ -269,40 +280,53 @@ position: absolute;
 margin-left:300px;
 font-family: Helvetica;	
 font-weight: 500;
-opacity:0.5;
-font-size: 14pt;
+opacity:0.4;
+font-size: 16pt;
 width: 400px;
 margin-top:1920px;
 
+}
+.FakeApolo{
+position: absolute;
+margin-left: 330px;
+margin-top:2150px;
+width: 160px;
+height:70px;
+background: #808080;
+filter: alpha(opacity=60);
+opacity: 0.15;
+
+}
+.FakeApolo:hover{
+position: absolute;
+margin-left: 330px;
+margin-top:2150px;
+width: 160px;
+height:70px;
+background: #191970;
+filter: alpha(opacity=60);
+opacity: 0.3;
+transition: 0.3s;
 }
 .startApolo{
 position: absolute;
 font-size: 18px;
 font-family: Helvetica;
 font-weight: 400px;
-margin-left: 1000px;
-margin-top:2290px;
+margin-left: 330px;
+margin-top:2150px;
 width: 160px;
 height:70px;
 text-align: center;
-vertical-align: middle;
-line-height: 70px; 
-background-color:#DEB887;  
+vertical-align: center;
+line-height: 85px;  
 }
-.temno{
-position: absolute;
-margin-left: 1000px;
-margin-top:2290px;
-width: 160px;
-height:70px;
-background-color:black;
-opacity: 0.3;  
-}
+
 .linia2{
 border:1px double white;
 position: absolute;
-margin-top:2325px;
-width: 655px;
-margin-left:340px;
+margin-top:2333px;
+width: 100%;
+margin-left:0px;
 opacity: 0.15;
 }
