@@ -305,8 +305,11 @@ line-height: 85px;
 .linia2{
 border:1px double white;
 position: absolute;
-margin-top:2333px;
+margin-top:2238px;
 width: 100%;
 margin-left:0px;
 opacity: 0.15;
+}
+.sakura{
+margin-top:2238px;
 }
