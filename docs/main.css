@@ -36,8 +36,9 @@ top:210px;
 width: 0px;
 }
 .text2{
+position: absolute;
 font-family: Helvetica;
-padding: 0px 30px 15px 240px;	
+padding: 20px 30px 15px 240px;
 line-height: 0.25;		
 font-weight: 500;
 color:#696969;
