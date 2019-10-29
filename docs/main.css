@@ -6,6 +6,7 @@ background-size: 100%;
 
 }
 .header{
+
 bottom: 80px;
 width: 70px;
 
@@ -242,28 +243,28 @@ position: absolute;
 font-family: Helvetica;
 font-weight: 560;
 width: 70%;
-padding-left: 300px;
-padding-top: 1600px;
+margin-left: 300px;
+margin-top: 1600px;
 }
 .boruto11{
 font-size:32px;	
 font-family: Helvetica;
 font-weight: 500;
 width: 45%;
-padding-left: 300px;
-padding-top: 1720px;
+margin-left: 300px;
+margin-top: 1720px;
 position: absolute;
 opacity: 0.70;
 }
 .boruto3{
 position: absolute;
-padding-left:300px;
+margin-left:300px;
 font-family: Helvetica;	
 font-weight: 500;
 opacity:0.4;
 font-size: 27px;
 width: 39%;
-padding-top:1820px;
+margin-top:1820px;
 
 }
 .FakeApolo{
