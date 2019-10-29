@@ -242,8 +242,8 @@ position: absolute;
 font-family: Helvetica;
 font-weight: 560;
 width: 70%;
-margin-left: 300px;
-margin-top: 1700px;
+padding-left: 300px;
+padding-top: 1600px;
 }
 .boruto11{
 font-size:32px;	
@@ -251,7 +251,7 @@ font-family: Helvetica;
 font-weight: 500;
 width: 45%;
 padding-left: 300px;
-padding-top: 1820px;
+padding-top: 1720px;
 position: absolute;
 opacity: 0.70;
 }
@@ -263,13 +263,13 @@ font-weight: 500;
 opacity:0.4;
 font-size: 27px;
 width: 39%;
-padding-top:1920px;
+padding-top:1820px;
 
 }
 .FakeApolo{
 position: absolute;
 margin-left: 330px;
-margin-top:2150px;
+margin-top:2050px;
 width: 160px;
 height:70px;
 background: #808080;
@@ -280,7 +280,7 @@ opacity: 0.15;
 .FakeApolo:hover{
 position: absolute;
 margin-left: 330px;
-margin-top:2150px;
+margin-top:2050px;
 width: 160px;
 height:70px;
 background: #191970;
@@ -294,7 +294,7 @@ font-size: 18px;
 font-family: Helvetica;
 font-weight: 400px;
 margin-left: 330px;
-margin-top:2150px;
+margin-top:2050px;
 width: 160px;
 height:70px;
 text-align: center;
@@ -302,14 +302,6 @@ vertical-align: center;
 line-height: 85px;  
 }
 
-.linia2{
-border:1px double white;
-position: absolute;
-margin-top:2238px;
-width: 100%;
-margin-left:0px;
-opacity: 0.15;
-}
 .sakura{
 margin-top:2238px;
 }
