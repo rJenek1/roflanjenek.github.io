@@ -246,24 +246,24 @@ margin-left: 300px;
 margin-top: 1700px;
 }
 .boruto11{
-font-size:21pt;	
+font-size:32px;	
 font-family: Helvetica;
 font-weight: 500;
-width: 40%;
-margin-left: 300px;
-margin-top: 1780px;
+width: 33%;
+padding-left: 300px;
+padding-top: 1820px;
 position: absolute;
 opacity: 0.70;
 }
 .boruto3{
 position: absolute;
-margin-left:300px;
+padding-left:300px;
 font-family: Helvetica;	
 font-weight: 500;
 opacity:0.4;
-font-size: 16pt;
-width: 50%;
-margin-top:1850px;
+font-size: 27px;
+width: 33%;
+padding-top:1920px;
 
 }
 .FakeApolo{
