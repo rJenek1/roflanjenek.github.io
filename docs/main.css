@@ -129,7 +129,7 @@ font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
 margin-left: 290px;
-margin-top:108px;
+margin-top:105px;
 width: 110px;
 }
 .fontext3{ 
@@ -177,7 +177,7 @@ font-size:28px;
 font-family: 'Poppins', sans-serif;
 font-weight: 500;
 margin-left: 180px;
-margin-top: 900px;
+margin-top: 915px;
 width: 33%;
 position: absolute;
 opacity: 0.40;
@@ -189,7 +189,7 @@ font-family: 'Poppins', sans-serif;
 font-weight: 500;
 color:#696969;
 font-size: 16pt;
-margin-top:1060px;
+margin-top:1090px;
 width: 33%;
 opacity: 0.50;
 }
@@ -206,7 +206,7 @@ position: absolute;
 font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-margin-top:1250px;
+margin-top:1280px;
 margin-left: 180px;
 width: 10%;
 }
@@ -215,7 +215,7 @@ position: absolute;
 font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-margin-top:1250px;
+margin-top:1280px;
 margin-left: 180px;
 width: 10%;
 color:#CD853F;
@@ -264,13 +264,13 @@ font-weight: 500;
 opacity:0.4;
 font-size: 27px;
 width: 39%;
-margin-top:1820px;
+margin-top:1850px;
 
 }
 .FakeApolo{
 position: absolute;
 margin-left: 330px;
-margin-top:2050px;
+margin-top:2070px;
 width: 160px;
 height:70px;
 background: #808080;
@@ -281,7 +281,7 @@ opacity: 0.15;
 .FakeApolo:hover{
 position: absolute;
 margin-left: 330px;
-margin-top:2050px;
+margin-top:2070px;
 width: 160px;
 height:70px;
 background: #191970;
@@ -295,7 +295,7 @@ font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
 margin-left: 330px;
-margin-top:2050px;
+margin-top:2067px;
 width: 160px;
 height:70px;
 text-align: center;
