@@ -159,7 +159,7 @@ margin-top: 350px;
 .almaz{
 position: absolute;
 margin-top:830px;
-margin-left: 150px;
+margin-left: 90px;
 width: 5%;
 
 }
@@ -168,7 +168,7 @@ position: absolute;
 font-family: 'Poppins', sans-serif;
 font-weight: 560;
 width: 50%;
-margin-left: 240px;
+margin-left: 180px;
 margin-top: 830px;
 
 }
@@ -176,7 +176,7 @@ margin-top: 830px;
 font-size:28px;	
 font-family: 'Poppins', sans-serif;
 font-weight: 500;
-margin-left: 240px;
+margin-left: 180px;
 margin-top: 900px;
 width: 33%;
 position: absolute;
@@ -184,7 +184,7 @@ opacity: 0.40;
 }
 .wia2{
 position: absolute;
-margin-left:240px;
+margin-left:180px;
 font-family: 'Poppins', sans-serif;	
 font-weight: 500;
 color:#696969;
@@ -207,7 +207,7 @@ font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
 margin-top:1250px;
-margin-left: 240px;
+margin-left: 180px;
 width: 10%;
 }
 .wia3:hover{
@@ -215,8 +215,8 @@ position: absolute;
 font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-margin-top:1170px;
-margin-left: 240px;
+margin-top:1250px;
+margin-left: 180px;
 width: 10%;
 color:#CD853F;
 transition: 0.3s;
