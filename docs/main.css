@@ -14,7 +14,7 @@ width: 70px;
 .zagolovok {
 padding: 50px 30px 15px 240px;
 line-height: 1.8;
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 560;
 width: 40%;
 
@@ -37,7 +37,7 @@ top:210px;
 width: 0px;
 }
 .text2{
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 padding: 20px 30px 15px 240px;
 line-height: 0.25;		
 font-weight: 500;
@@ -126,7 +126,7 @@ background-color: #CD853F;
 .fontext{
 position: absolute;
 font-size: 18px;
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 400px;
 margin-left: 290px;
 margin-top:108px;
@@ -135,7 +135,7 @@ width: 110px;
 .fontext3{ 
 position: absolute;
 font-size: 18px;
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 400px;
 margin-left: 480px;
 margin-top:105px;
@@ -143,7 +143,7 @@ margin-top:105px;
 .fontext3:hover{ 
 position: absolute;
 font-size: 18px;
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 400px;
 margin-left: 480px;
 margin-top:105px;
@@ -165,7 +165,7 @@ width: 5%;
 }
 .wia{
 position: absolute;
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 560;
 width: 50%;
 margin-left: 240px;
@@ -174,7 +174,7 @@ margin-top: 830px;
 }
 .wia1{
 font-size:21pt;	
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 500;
 margin-left: 240px;
 margin-top: 890px;
@@ -185,7 +185,7 @@ opacity: 0.40;
 .wia2{
 position: absolute;
 margin-left:240px;
-font-family: Helvetica;	
+font-family: 'Poppins', sans-serif;	
 font-weight: 500;
 color:#696969;
 font-size: 16pt;
@@ -204,7 +204,7 @@ opacity: 0.15;
 .wia3{
 position: absolute;
 font-size: 18px;
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 400px;
 margin-top:1170px;
 margin-left: 240px;
@@ -213,7 +213,7 @@ width: 10%;
 .wia3:hover{
 position: absolute;
 font-size: 18px;
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 400px;
 margin-top:1170px;
 margin-left: 240px;
@@ -240,7 +240,7 @@ margin-top:1300px;
 }	
 .boruto{
 position: absolute;
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 560;
 width: 70%;
 margin-left: 300px;
@@ -248,7 +248,7 @@ margin-top: 1600px;
 }
 .boruto11{
 font-size:32px;	
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 500;
 width: 45%;
 margin-left: 300px;
@@ -259,7 +259,7 @@ opacity: 0.70;
 .boruto3{
 position: absolute;
 margin-left:300px;
-font-family: Helvetica;	
+font-family: 'Poppins', sans-serif;	
 font-weight: 500;
 opacity:0.4;
 font-size: 27px;
@@ -292,7 +292,7 @@ transition: 0.3s;
 .startApolo{
 position: absolute;
 font-size: 18px;
-font-family: Helvetica;
+font-family: 'Poppins', sans-serif;
 font-weight: 400px;
 margin-left: 330px;
 margin-top:2050px;
