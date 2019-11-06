@@ -6,13 +6,9 @@ background-size: 100%;
 
 }
 .header{
-
-bottom: 80px;
-width: 70px;
-
 }
 .zagolovok {
-padding: 50px 30px 15px 240px;
+margin-left:14%;
 line-height: 1.8;
 font-family: 'Poppins', sans-serif;
 font-weight: 560;
@@ -22,23 +18,21 @@ width: 40%;
 
 .text1{
 width: 60%;
-padding: 0px 30px 15px 240px;
+margin-left:14%;
 font-size:40px;	
 line-height: 0.25;
 color:#808080;
 font-weight: 500;
 }
-.meteorBIG{ 
+.meteorBIG{
 position: absolute;
-padding-left: 1000px;
+margin-left: 60%;
 display:table-cell;
-height: 1px;
 top:210px;
-width: 0px;
 }
 .text2{
 font-family: 'Poppins', sans-serif;
-padding: 20px 30px 15px 240px;
+margin-left:14%;
 line-height: 0.25;		
 font-weight: 500;
 color:#696969;
@@ -47,56 +41,53 @@ opacity: 0.70;
 width: 50%;
 }
 .meteorSMALL{
-height: 0px;
 position: absolute;
-margin-left: 1410px;
-margin-top:-90px;
+margin-left: 85%;
+margin-top:-7%;
 }
 .vkladka1{
 position: absolute;
-margin-left: 1200px;
-top:33px;
+margin-left: 70%;
+top:3%;
 font-size: 15px;
 }
 .vkladka1:hover{
 position: absolute;
-margin-left: 1200px;
-top:33px;
-font-size: 15px;
+margin-left: 70%;
+top:3%;
+font-size: 18px;
 color:#CD853F;
-transition: 0.3s;
+transition: 0.1s;
 opacity: 0.5;
 }
 .vkladka2{ 
 position: absolute;
-margin-left: 1400px;
-top:33px;
-font-size: 15px;
-color:#696969;	
+margin-left: 82%;
+top:3%;
+font-size: 15px;	
 }
 .vkladka2:hover{ 
 position: absolute;
-margin-left: 1400px;
-top:33px;
-font-size: 15px;
+margin-left: 82%;
+top:3%;
+font-size: 18px;
 color:#CD853F;
-transition: 0.3s;
+transition: 0.1s;
 opacity: 0.5;
 }
 .vkladka3{
 position: absolute;
-margin-left: 1560px;
-top:33px;
-font-size: 15px;
-color:#696969;		
+margin-left: 92%;
+top:3%;
+font-size: 15px;		
 }
 .vkladka3:hover{
 position: absolute;
-margin-left: 1560px;
-top:33px;
-font-size: 15px;
+margin-left: 92%;
+top:3%;
+font-size: 18px;
 color:#CD853F;
-transition: 0.3s;
+transition: 0.1s;
 opacity: 0.5;		
 }
 .startnow{
@@ -109,8 +100,8 @@ position: absolute;
 opacity: 0.15;
 height: 35%;
 width: 65%;
-margin-top: 80px;
-margin-left: 240px;
+margin-top: 27%;
+margin-left: 79%;
 
 }
 .fon:hover{
@@ -118,18 +109,18 @@ position: absolute;
 opacity: 0.3;
 height: 35%;
 width: 65%;
-margin-top: 80px;
-margin-left: 240px;
+margin-top: 27%;
+margin-left: 79%;
 transition: 0.4s;
 background-color: #CD853F;
 }
 .fontext{
 position: absolute;
-font-size: 18px;
+font-size: 19px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-margin-left: 290px;
-margin-top:105px;
+margin-left: 93%;
+margin-top:34%;
 width: 110px;
 }
 .fontext3{ 
@@ -137,30 +128,29 @@ position: absolute;
 font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-margin-left: 480px;
-margin-top:105px;
+margin-left: 30%;
+margin-top:5.25%;
 }
 .fontext3:hover{ 
 position: absolute;
 font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-margin-left: 480px;
-margin-top:105px;
+margin-left: 30%;
+margin-top:5.25%;
 color:#CD853F;
 transition: 0.3s;
 opacity: 0.5;
 }
 .nasa{
 position: absolute;
-margin-left: 240px;
-margin-top: 350px;
+margin-left: 14%;
+margin-top: 20%;
 }
 .almaz{
 position: absolute;
-margin-top:830px;
-margin-left: 90px;
-width: 5%;
+margin-top:50%;
+margin-left: 5%;
 
 }
 .wia{
@@ -168,37 +158,37 @@ position: absolute;
 font-family: 'Poppins', sans-serif;
 font-weight: 560;
 width: 50%;
-margin-left: 180px;
-margin-top: 830px;
+margin-left: 11%;
+margin-top: 49.5%;
 
 }
 .wia1{
 font-size:28px;	
 font-family: 'Poppins', sans-serif;
 font-weight: 500;
-margin-left: 180px;
-margin-top: 915px;
+margin-left: 14%;
+margin-top: 54%;
 width: 33%;
 position: absolute;
 opacity: 0.40;
 }
 .wia2{
 position: absolute;
-margin-left:180px;
+margin-left:14%;
 font-family: 'Poppins', sans-serif;	
 font-weight: 500;
 color:#696969;
 font-size: 16pt;
-margin-top:1090px;
+margin-top:61%;
 width: 33%;
 opacity: 0.50;
 }
 .linia{
 border:1px double white;
 position: absolute;
-margin-top:550px;
-width: 1365px;
-margin-left:300px;
+margin-top:31%;
+width: 80%;
+margin-left:20%;
 opacity: 0.15;
 }
 .wia3{
@@ -206,8 +196,8 @@ position: absolute;
 font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-margin-top:1280px;
-margin-left: 180px;
+margin-top:70%;
+margin-left: 11%;
 width: 10%;
 }
 .wia3:hover{
@@ -215,8 +205,8 @@ position: absolute;
 font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-margin-top:1280px;
-margin-left: 180px;
+margin-top:70%;
+margin-left: 11%;
 width: 10%;
 color:#CD853F;
 transition: 0.3s;
@@ -224,54 +214,54 @@ opacity: 0.5;
 }
 .tuman{
 position: absolute;
-margin-left: 850px;
-margin-top:700px;
+margin-left: 53%;
+margin-top:40%;
 
 }
 .tuman1{
 position: absolute;
-margin-left: 800px;
-margin-top:730px;
+margin-left: 50%;
+margin-top:43%;
 }
 .rasvet{
 position: absolute;
-margin-left: 1200px;
-margin-top:1300px;
+margin-left: 73%;
+margin-top:70%;
 }	
 .boruto{
 position: absolute;
 font-family: 'Poppins', sans-serif;
 font-weight: 560;
 width: 70%;
-margin-left: 300px;
-margin-top: 1600px;
+margin-left: 14%;
+margin-top: 105%;
 }
 .boruto11{
 font-size:32px;	
 font-family: 'Poppins', sans-serif;
 font-weight: 500;
 width: 45%;
-margin-left: 300px;
-margin-top: 1720px;
+margin-left: 17%;
+margin-top: 110%;
 position: absolute;
 opacity: 0.70;
 }
 .boruto3{
 position: absolute;
-margin-left:300px;
+margin-left:17%;
 font-family: 'Poppins', sans-serif;	
 font-weight: 500;
 opacity:0.4;
 font-size: 27px;
 width: 39%;
-margin-top:1850px;
+margin-top:115%;
 
 }
 .FakeApolo{
 position: absolute;
-margin-left: 330px;
-margin-top:2070px;
-width: 160px;
+margin-left: 14%;
+margin-top:130%;
+width: 190px;
 height:70px;
 background: #808080;
 filter: alpha(opacity=60);
@@ -280,9 +270,9 @@ opacity: 0.15;
 }
 .FakeApolo:hover{
 position: absolute;
-margin-left: 330px;
-margin-top:2070px;
-width: 160px;
+margin-left: 14%;
+margin-top:130%;
+width: 190px;
 height:70px;
 background: #191970;
 filter: alpha(opacity=60);
@@ -294,9 +284,9 @@ position: absolute;
 font-size: 18px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-margin-left: 330px;
-margin-top:2067px;
-width: 160px;
+margin-left: 14%;
+margin-top:129.8%;
+width: 190px;
 height:70px;
 text-align: center;
 vertical-align: center;
@@ -304,5 +294,5 @@ line-height: 85px;
 }
 
 .sakura{
-margin-top:2238px;
+margin-top:144%;
 }
