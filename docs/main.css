@@ -429,19 +429,19 @@ background-color: black;
 position: absolute;
 font-family: 'Poppins', sans-serif;
 margin-left:60% ;
-top:335% ;
+top:3950px ;
 }
 .x2a{
 position: absolute;
 margin-left:60% ;
-top:335% ;
+top:3950px ;
 width: 100px;
 height:24px;
 }
 .x2a:hover{
 position: absolute;
 margin-left:60% ;
-top:335% ;
+top:3950px ;
 cursor: pointer;
 opacity: 0.5;
 background-color: black;
