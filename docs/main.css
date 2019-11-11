@@ -368,7 +368,7 @@ height: 1350px;
    
 .kitkat{position: absolute;
 margin-left:6% ;
-top:3375px;
+top:3415px;
 
 }
 .snikers{
@@ -376,7 +376,7 @@ font-size:28px;
 font-family: 'Poppins', sans-serif;
 font-weight: 500;
 margin-left:8% ;
-top:3440px ;
+top:3480px ;
 width: 30%;
 position: absolute;
 opacity: 0.40;
@@ -386,7 +386,7 @@ position: absolute;
 font-size: 21px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-top:3590px;
+top:3630px;
 margin-left:7%;
 width: 10%;
 }
@@ -395,7 +395,7 @@ position: absolute;
 font-size: 21px;
 font-family: 'Poppins', sans-serif;
 font-weight: 400px;
-top:3590px;
+top:3630px;
 margin-left:7% ;
 width: 10%;
 color:#CD853F;
@@ -407,19 +407,19 @@ cursor: pointer;
 position: absolute;
 font-family: 'Poppins', sans-serif;
 margin-left:45% ;
-top:3550px ;
+top:3590px ;
 }
 .x1a{
 position: absolute;
 margin-left:45% ;
-top:3550px; 
+top:3590px; 
 width: 110px;
 height:24px;
 }
 .x1a:hover{
 position: absolute;
 margin-left:45% ;
-top:3550px;
+top:3590px;
 cursor: pointer;
 opacity: 0.5;
 background-color: black;
@@ -429,19 +429,19 @@ background-color: black;
 position: absolute;
 font-family: 'Poppins', sans-serif;
 margin-left:60% ;
-top:3950px ;
+top:3990px ;
 }
 .x2a{
 position: absolute;
 margin-left:60% ;
-top:3950px ;
+top:3990px ;
 width: 100px;
 height:24px;
 }
 .x2a:hover{
 position: absolute;
 margin-left:60% ;
-top:3950px ;
+top:3990px ;
 cursor: pointer;
 opacity: 0.5;
 background-color: black;
@@ -450,19 +450,19 @@ background-color: black;
 position: absolute;
 font-family: 'Poppins', sans-serif;
 margin-left:47% ;
-top:4350px ;
+top:4390px ;
 }
 .x3a{
 position: absolute;
 margin-left:47% ;
-top:4350px ;
+top:4390px ;
 width: 130px;
 height:24px;
 }
 .x3a:hover{
 position: absolute;
 margin-left:47% ;
-top:4350px ;
+top:4390px ;
 cursor: pointer;
 opacity: 0.5;
 background-color: black;
@@ -471,12 +471,12 @@ background-color: black;
 position: absolute;
 font-family: 'Poppins', sans-serif;
 margin-left:21% ;
-top:4450px ;
+top:4490px ;
 }
 .x4a{
 position: absolute;
 margin-left:21% ;
-top:4450px ;
+top:4490px ;
 width: 130px;
 height:24px;
 
@@ -484,7 +484,7 @@ height:24px;
 .x4a:hover{
 position: absolute;
 margin-left:21% ;
-top:4450px ;
+top:4490px ;
 cursor: pointer;
 opacity: 0.5;
 background-color: black;
@@ -494,12 +494,12 @@ background-color: black;
 position: absolute;
 font-family: 'Poppins', sans-serif;
 margin-left:5% ;
-top:3900px ;
+top:3940px ;
 }
 .x5a{
 position: absolute;
 margin-left:5% ;
-top:3900px;
+top:3940px;
 width: 130px;
 height:24px;
 
@@ -507,7 +507,7 @@ height:24px;
 .x5a:hover{
 position: absolute;
 margin-left:5% ;
-top:3900px;
+top:3940px;
 cursor: pointer;
 opacity: 0.5;
 background-color: black;
@@ -521,7 +521,7 @@ font-size:20px;
 width: 13%;
 height: 1050px;
 margin-left:78%;
-top:3450px;
+top:3490px;
 }
 .y2{
 height: 1px;
