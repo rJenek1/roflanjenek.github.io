@@ -576,7 +576,7 @@ opacity: 0.7;
 
 }
 
-input[type="checkbox"]:checked ~ .tx1a {
+input[type="checkbox"]:checked ~ .ctx1a {
   display: block;
 }
 
